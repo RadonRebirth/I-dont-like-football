@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">I don\'t love footbal</string>
+    <string name="Football">Football scoreboard</string>
+    <string name="Reset">Reset</string>
+    <string name="Spain">Spain</string>
+    <string name="Brazil">Brazil</string>
+
+</resources>

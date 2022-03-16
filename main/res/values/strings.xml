@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">I don\'t love footbal</string>
+    <string name="Football">Футбольное табло</string>
+    <string name="Reset">Сбросить счёт</string>
+    <string name="Spain">Испания</string>
+    <string name="Brazil">Бразилия</string>
+</resources>
